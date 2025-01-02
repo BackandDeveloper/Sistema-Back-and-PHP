@@ -3,13 +3,18 @@ Este projeto é um sistema de back-end completo em PHP para um site, incluindo a
 
 ## 📋| Funcionalidades
 
+```
 Registro de usuários
-
+```
+```
 Login de usuários
-
+```
+```
 Gerenciamento de sessões
-
+```
+```
 Página protegida
+```
 
 Logout
 
