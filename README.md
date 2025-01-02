@@ -38,5 +38,5 @@ Acesse dashboard.php para ver a página protegida.
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
 
-## | Licença
+## 📑| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
