@@ -32,8 +32,7 @@ Acesse login.php para fazer login.
 
 ```
 Acesse dashboard.php para ver a página protegida.
-```
-```
+
 ## | Estrutura do Código
 
 ## | Contribuições
