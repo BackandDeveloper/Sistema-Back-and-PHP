@@ -35,7 +35,7 @@ Acesse dashboard.php para ver a página protegida.
 
 ## 🗂️| Estrutura do Código
 
-## | Contribuições
+## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
 
 ## | Licença
