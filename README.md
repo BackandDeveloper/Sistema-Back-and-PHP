@@ -13,7 +13,7 @@ Página protegida
 
 Logout
 
-## Como Usar
+## 📖| Como Usar
 
 Clone este repositório para o seu ambiente local:
 ```
