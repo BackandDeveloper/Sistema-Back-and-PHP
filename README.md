@@ -1,4 +1,4 @@
-## | Sistema de Back-end em PHP
+## 💻| Sistema de Back-end em PHP
 Este projeto é um sistema de back-end completo em PHP para um site, incluindo autenticação de usuários, gerenciamento de sessões e interação com um banco de dados MySQL.
 
 ## 📋| Funcionalidades
@@ -33,7 +33,7 @@ Acesse login.php para fazer login.
 ```
 Acesse dashboard.php para ver a página protegida.
 
-## | Estrutura do Código
+## 🗂️| Estrutura do Código
 
 ## | Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
