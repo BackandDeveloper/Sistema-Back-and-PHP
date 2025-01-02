@@ -1,7 +1,8 @@
-Sistema de Back-end em PHP
+## Sistema de Back-end em PHP
 Este projeto é um sistema de back-end completo em PHP para um site, incluindo autenticação de usuários, gerenciamento de sessões e interação com um banco de dados MySQL.
 
-Funcionalidades
+## Funcionalidades
+
 Registro de usuários
 
 Login de usuários
@@ -12,7 +13,7 @@ Página protegida
 
 Logout
 
-Como Usar
+## Como Usar
 Clone este repositório para o seu ambiente local:
 
 bash
