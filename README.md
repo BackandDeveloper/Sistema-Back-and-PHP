@@ -42,6 +42,23 @@ Acesse dashboard.php para ver a página protegida.
 
 ## 🗂️| Estrutura do Código
 
+```
+meu_site/
+├── config/
+│   └── config.php
+├── public/
+│   ├── index.php
+│   ├── register.php
+│   ├── login.php
+│   ├── dashboard.php
+│   └── logout.php
+├── src/
+│   ├── User.php
+│   └── Session.php
+├── README.md
+└── LICENSE
+```
+
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
 
