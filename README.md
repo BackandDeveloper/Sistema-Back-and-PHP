@@ -16,8 +16,6 @@ Gerenciamento de sessões
 Página protegida
 ```
 
-Logout
-
 ## 📖| Como Usar
 
 Clone este repositório para o seu ambiente local:
