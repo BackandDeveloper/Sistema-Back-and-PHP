@@ -58,7 +58,7 @@ meu_site/
 ```
 
 ## 👥| Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
+Contribuições são bem-vindas! Sinta-se à vontade para me mandar um e-mail solicitando.
 
 ## 📑| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
